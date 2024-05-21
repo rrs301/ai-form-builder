@@ -13,8 +13,7 @@ function Hero() {
       </h1>
 
       <p className="mt-4 sm:text-xl/relaxed text-gray-500">
-        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nesciunt illo tenetur fuga ducimus
-        numquam ea!
+      Generate, publish and share your form right away with AI. Dive into insightful results, charts and analytics.
       </p>
 
       <div className="mt-8 flex flex-wrap justify-center gap-4">

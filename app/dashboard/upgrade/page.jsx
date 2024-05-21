@@ -40,7 +40,7 @@ function Upgrade() {
             <path strokeLinecap="round" strokeLinejoin="round" d="M4.5 12.75l6 6 9-13.5" />
           </svg>
 
-          <span className="text-gray-700"> 10 users included </span>
+          <span className="text-gray-700"> Unlimted AI forms </span>
         </li>
 
         <li className="flex items-center gap-1">
@@ -55,7 +55,7 @@ function Upgrade() {
             <path strokeLinecap="round" strokeLinejoin="round" d="M4.5 12.75l6 6 9-13.5" />
           </svg>
 
-          <span className="text-gray-700"> 2GB of storage </span>
+          <span className="text-gray-700"> Unlimted User Form Responses </span>
         </li>
 
         <li className="flex items-center gap-1">
@@ -85,7 +85,7 @@ function Upgrade() {
             <path strokeLinecap="round" strokeLinejoin="round" d="M4.5 12.75l6 6 9-13.5" />
           </svg>
 
-          <span className="text-gray-700"> Help center access </span>
+          <span className="text-gray-700"> App Tubeguruji.Com App Access </span>
         </li>
       </ul>
 
